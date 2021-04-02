@@ -316,3 +316,9 @@ Tabella dei contenuti:
   Reducers)](https://orizens.com/blog/adding-redux-with-ngrxstore-to-angular2-part-2-testing-reducers/)
 * [Making chained API Calls using @ngrx/Effects](https://gist.github.com/peterbsmith2/ce94c0a5ddceb99bab24a761731d1f07)
 * [Authentication in Angular with NGRX](https://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx)
+
+
+# Per creare dei Web Components
+
+* [LitElement](https://lit-element.polymer-project.org/)
+* [Stencil](https://stenciljs.com/)
